@@ -1,0 +1,14 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  background-color: azure;
+  box-sizing: border-box;
+}
+
+h1 {
+  color: olivedrab;
+}
+
+p {
+  color: goldenrod;
+}
